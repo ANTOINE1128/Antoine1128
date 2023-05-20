@@ -1,5 +1,5 @@
 # Antoine Makdessy
-I am a Full Stack developer and Mentor at Microverse. I served as a Police officer for 7 years with the Lebanese internal security forces . I am passionate about coding and love to create innovative solutions that solve real-world problems.
+I am a Full-Stack developer and Mentor at Microverse. I served as a Police officer for 7 years with the Lebanese internal security forces . I am passionate about coding and love to create innovative solutions that solve real-world problems.
 
 
 📚 In addition to coding, I enjoy learning new technologies and keeping up with the latest trends in the tech industry. I believe that continuous learning is essential for personal growth and professional development.
