@@ -6,7 +6,15 @@ I am a Full-Stack developer and Mentor at Microverse. I served as a Police offic
 
 🤝 Collaboration is key in the tech industry, so feel free to reach out to me if you are interested in working together on a project or just want to connect!
 
-Thank you for visiting my profile! 
+Thank you for visiting my profile!
+
+## Connect with Antoine
+
+<p align="left">
+<a href="https://twitter.com/TonyMakdessy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Antoine1128" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/antoine-makdessy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@Antoine1128" height="30" width="40" /></a>
+</p>
+
 ## Current status
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Antoine1128&label=Profile%20views&color=ce9927&style=flat" alt="https://twitter.com/TonyMakdessy" /> </p>
@@ -16,13 +24,6 @@ Thank you for visiting my profile!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoine1128&show_icons=true&theme=monokai)
 
-
-## Connect with Antoine
-
-<p align="left">
-<a href="https://twitter.com/TonyMakdessy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Antoine1128" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/antoine-makdessy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@Antoine1128" height="30" width="40" /></a>
-</p>
 
 ##  Skills
 
